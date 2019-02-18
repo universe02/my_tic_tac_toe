@@ -167,7 +167,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }*/
     }
 
-
+//miniMax
 
     public int[] miniMax(int depth,boolean isPC, int max, int min) {
         int value = 0;
